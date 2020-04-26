@@ -1,0 +1,3 @@
+- Buat program sederhana menggunakan js
+- mini projek
+- ui ux
