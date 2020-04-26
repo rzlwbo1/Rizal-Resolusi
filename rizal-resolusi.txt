@@ -6,3 +6,6 @@ RESOLUSI RIZAL WIBOWO
 - MEMBUAT PROJECT WEBSITE
 - DEPLOY KE NETLIFY
 - LATIHAN MENGGUNAKAN GIT
+
+//// Menambahkan fitur delete
+//// Menambahkan fitur edit
