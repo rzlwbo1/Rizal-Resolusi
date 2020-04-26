@@ -6,3 +6,8 @@ RESOLUSI RIZAL WIBOWO
 - MEMBUAT PROJECT WEBSITE
 - DEPLOY KE NETLIFY
 - LATIHAN MENGGUNAKAN GIT
+
+
+//// Menambahkan fitur satu
+//// Menambahkan fitur cari
+//// Menambahkan fitur edit
