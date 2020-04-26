@@ -1,0 +1,2 @@
+- Buat program sederhana menggunakan js
+- ui ux
