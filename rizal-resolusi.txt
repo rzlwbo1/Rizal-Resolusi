@@ -8,4 +8,4 @@ RESOLUSI RIZAL WIBOWO
 - LATIHAN MENGGUNAKAN GIT
 
 # Add feature Search
-# Add feature Edit
+# Add feature Chekout
