@@ -7,5 +7,10 @@ RESOLUSI RIZAL WIBOWO
 - DEPLOY KE NETLIFY
 - LATIHAN MENGGUNAKAN GIT
 
+
 //// Menambahkan fitur delete
-//// Menambahkan fitur edit
+
+
+//// Menambahkan fitur satu
+//// Menambahkan fitur cari
+
