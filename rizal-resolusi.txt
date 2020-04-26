@@ -8,6 +8,9 @@ RESOLUSI RIZAL WIBOWO
 - LATIHAN MENGGUNAKAN GIT
 
 
+//// Menambahkan fitur delete
+
+
 //// Menambahkan fitur satu
 //// Menambahkan fitur cari
-//// Menambahkan fitur edit
+
